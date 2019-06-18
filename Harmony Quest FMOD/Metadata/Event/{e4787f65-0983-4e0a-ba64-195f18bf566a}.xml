@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{e4787f65-0983-4e0a-ba64-195f18bf566a}">
         <property name="name">
-            <value>Crystal Man Fight - Pink</value>
+            <value>Crystal Man Fight - Pink (v.1)</value>
         </property>
         <property name="outputFormat">
             <value>1</value>
@@ -42,9 +42,6 @@
             <destination>{a244b0a5-abfc-44a0-bf29-0e4ab92d787f}</destination>
             <destination>{130f3d49-cac8-46b2-96f6-cb45d8ff0f97}</destination>
             <destination>{27861873-aa2c-4474-bed7-83646557e405}</destination>
-        </relationship>
-        <relationship name="banks">
-            <destination>{ac3bffc0-ba64-43f1-8e4e-f6e432afbe5a}</destination>
         </relationship>
     </object>
     <object class="EventMixer" id="{a1617bbc-379e-4245-a7c6-61a832db5404}">
