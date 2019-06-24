@@ -1837,7 +1837,7 @@
     </object>
     <object class="NamedMarker" id="{c257f1b6-a4f8-4083-8a0b-20e0d896f9b2}">
         <property name="position">
-            <value>1.7142857142857142</value>
+            <value>1.6071428571428645</value>
         </property>
         <property name="name">
             <value>~A3,rD4,F#4</value>
@@ -1851,7 +1851,7 @@
     </object>
     <object class="NamedMarker" id="{9eee3495-1e09-414c-8814-ae5af3f79a75}">
         <property name="position">
-            <value>3.4285714285714284</value>
+            <value>3.3214285714285774</value>
         </property>
         <property name="name">
             <value>~rA3,C4,E4</value>
@@ -1865,7 +1865,7 @@
     </object>
     <object class="NamedMarker" id="{6bd214c1-1933-4902-ad8b-7cfb64eee58c}">
         <property name="position">
-            <value>5.1428571428571423</value>
+            <value>5.0357142857142909</value>
         </property>
         <property name="name">
             <value>~A3,rD4,F#4</value>
@@ -1879,7 +1879,7 @@
     </object>
     <object class="NamedMarker" id="{0827917e-c86b-424e-82e3-69bd9f5ca51e}">
         <property name="position">
-            <value>6.8571428571428577</value>
+            <value>6.7500000000000062</value>
         </property>
         <property name="name">
             <value>~rA3,C4,E4</value>
@@ -1893,7 +1893,7 @@
     </object>
     <object class="NamedMarker" id="{f41aa75c-1583-4951-9443-271f55a6cfec}">
         <property name="position">
-            <value>10.285714285714285</value>
+            <value>10.178571428571436</value>
         </property>
         <property name="name">
             <value>~A3,C4,rF4</value>
@@ -1907,7 +1907,7 @@
     </object>
     <object class="NamedMarker" id="{5b266b5c-512e-466a-ba3c-cc43a2b2b979}">
         <property name="position">
-            <value>8.571428571428573</value>
+            <value>8.4642857142857242</value>
         </property>
         <property name="name">
             <value>~A3,rD4,F#4</value>
@@ -1921,7 +1921,7 @@
     </object>
     <object class="NamedMarker" id="{04e0e0e4-80fa-4923-ae48-1c73a931a5d6}">
         <property name="position">
-            <value>12</value>
+            <value>11.892857142857151</value>
         </property>
         <property name="name">
             <value>~B3,D4,rG4</value>
@@ -1935,7 +1935,7 @@
     </object>
     <object class="NamedMarker" id="{3f1015c8-cfd6-4a42-af74-416c21a1cc20}">
         <property name="position">
-            <value>13.714285714285703</value>
+            <value>13.607142857142856</value>
         </property>
         <property name="name">
             <value>~rA3,C4,E4</value>
@@ -1949,7 +1949,7 @@
     </object>
     <object class="NamedMarker" id="{9e291e7a-fefa-4ea5-9443-68c16f6f6065}">
         <property name="position">
-            <value>18.857142857142861</value>
+            <value>18.750000000000014</value>
         </property>
         <property name="name">
             <value>~A3,rD4,F#4</value>
@@ -1963,7 +1963,7 @@
     </object>
     <object class="NamedMarker" id="{09eaf12c-ca53-4aa7-ab7b-85c0d3838dd5}">
         <property name="position">
-            <value>17.142857142857146</value>
+            <value>17.035714285714299</value>
         </property>
         <property name="name">
             <value>~rA3,C4,E4</value>
@@ -1977,7 +1977,7 @@
     </object>
     <object class="NamedMarker" id="{b5220c15-a7ec-4f3f-9180-45e7cc6ad2d3}">
         <property name="position">
-            <value>20.571428571428577</value>
+            <value>20.46428571428573</value>
         </property>
         <property name="name">
             <value>~rA3,C4,E4</value>
@@ -1991,7 +1991,7 @@
     </object>
     <object class="NamedMarker" id="{95e31e3a-78e5-4557-9bf2-bb4d132a1ced}">
         <property name="position">
-            <value>15.428571428571418</value>
+            <value>15.321428571428571</value>
         </property>
         <property name="name">
             <value>~A3,rD4,F#4</value>
@@ -2005,7 +2005,7 @@
     </object>
     <object class="NamedMarker" id="{2dab27ea-2f18-476a-a7b1-ab48c4606c2a}">
         <property name="position">
-            <value>22.285714285714292</value>
+            <value>22.178571428571445</value>
         </property>
         <property name="name">
             <value>~A3,rD4,F#4</value>
@@ -2019,7 +2019,7 @@
     </object>
     <object class="NamedMarker" id="{36c03954-22e1-4383-9077-8ae7c9392712}">
         <property name="position">
-            <value>24</value>
+            <value>23.892857142857153</value>
         </property>
         <property name="name">
             <value>~A3,C4,rF4</value>
@@ -2033,7 +2033,7 @@
     </object>
     <object class="NamedMarker" id="{c31d2fde-8135-407a-9d6f-a717955a29b6}">
         <property name="position">
-            <value>25.714285714285715</value>
+            <value>25.607142857142868</value>
         </property>
         <property name="name">
             <value>~B3,D4,rG4</value>
@@ -2047,7 +2047,7 @@
     </object>
     <object class="NamedMarker" id="{61bb86e6-6d80-4f62-9820-1370e014fa48}">
         <property name="position">
-            <value>27.428571428571431</value>
+            <value>27.321428571428584</value>
         </property>
         <property name="name">
             <value>~rA3,C4,E4</value>
@@ -2061,7 +2061,7 @@
     </object>
     <object class="NamedMarker" id="{75db1bed-97d8-4b9d-a2e0-1354d4681c7f}">
         <property name="position">
-            <value>30.857142857142858</value>
+            <value>30.750000000000011</value>
         </property>
         <property name="name">
             <value>~rA3,C4,E4</value>
@@ -2075,7 +2075,7 @@
     </object>
     <object class="NamedMarker" id="{e4cde1a3-6f98-45d1-899e-5a5d9e0eff6c}">
         <property name="position">
-            <value>29.142857142857146</value>
+            <value>29.035714285714299</value>
         </property>
         <property name="name">
             <value>~A3,rD4,F#4</value>
@@ -2187,7 +2187,7 @@
     </object>
     <object class="NamedMarker" id="{55a68c90-65c5-4cc3-857f-3a359d452c84}">
         <property name="position">
-            <value>26.571428571428569</value>
+            <value>26.464285714285722</value>
         </property>
         <property name="name">
             <value>~B3,rE4,G#4</value>
@@ -2201,7 +2201,7 @@
     </object>
     <object class="NamedMarker" id="{613d4b01-983a-469c-ba24-7269a27498ef}">
         <property name="position">
-            <value>12.857142857142856</value>
+            <value>12.750000000000009</value>
         </property>
         <property name="name">
             <value>~B3,rE4,G#4</value>
