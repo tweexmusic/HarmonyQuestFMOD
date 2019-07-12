@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{18b24d26-bd0b-4c88-b4bb-b0c9e8c1a247}">
         <property name="name">
-            <value>cmf_pick_dissonance</value>
+            <value>cmf_pink_dissonance</value>
         </property>
         <property name="outputFormat">
             <value>1</value>

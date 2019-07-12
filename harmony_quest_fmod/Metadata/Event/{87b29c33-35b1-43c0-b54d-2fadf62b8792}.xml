@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{87b29c33-35b1-43c0-b54d-2fadf62b8792}">
         <property name="name">
-            <value>cmf_pick_phase1</value>
+            <value>cmf_pink_phase1</value>
         </property>
         <property name="outputFormat">
             <value>1</value>

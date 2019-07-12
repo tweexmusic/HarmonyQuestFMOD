@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{022ab94c-994e-4afa-8a39-f6bf1caeefbb}">
         <property name="name">
-            <value>melody_attack</value>
+            <value>melody_attack_tonal</value>
         </property>
         <property name="outputFormat">
-            <value>1</value>
+            <value>2</value>
         </property>
         <relationship name="folder">
             <destination>{1e3d43c7-4853-48ec-9751-0e11fb175fa5}</destination>
@@ -1174,6 +1174,7 @@
     <object class="MixerBusEffectChain" id="{efdc2c5b-a609-4917-8ffa-d3d1af60bc64}">
         <relationship name="effects">
             <destination>{8919e633-9815-4b78-958a-8e52023c4f91}</destination>
+            <destination>{fc486a6c-64dc-4a71-861c-affb06f11519}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{4d954fae-2182-4726-a35b-be468b0c6f4c}"/>
@@ -1353,6 +1354,20 @@
         </relationship>
     </object>
     <object class="MixerBusFader" id="{8919e633-9815-4b78-958a-8e52023c4f91}"/>
+    <object class="SpatialiserEffect" id="{fc486a6c-64dc-4a71-861c-affb06f11519}">
+        <property name="distanceRolloffType">
+            <value>1</value>
+        </property>
+        <property name="minimumDistance">
+            <value>10000</value>
+        </property>
+        <property name="maximumDistance">
+            <value>10000</value>
+        </property>
+        <property name="userStereoSeparation">
+            <value>105.814323</value>
+        </property>
+    </object>
     <object class="AutomationCurve" id="{c12bd656-60be-4ea7-8546-1fa7a5ffdd79}">
         <relationship name="parameter">
             <destination>{a048c3fe-64b2-492a-a454-f56bc870f9d4}</destination>
