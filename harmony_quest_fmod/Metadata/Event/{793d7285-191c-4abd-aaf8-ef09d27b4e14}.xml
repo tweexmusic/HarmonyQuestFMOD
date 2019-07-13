@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{793d7285-191c-4abd-aaf8-ef09d27b4e14}">
         <property name="name">
-            <value>crystal_man_fight_pink</value>
+            <value>crystal_man_fight_pink (v.3)</value>
         </property>
         <property name="note">
             <value>global_phase1:
@@ -25,7 +25,7 @@ global_fight_outro:
             <value>1</value>
         </property>
         <relationship name="folder">
-            <destination>{69b1f4b6-0f23-436e-9364-c2501dfcc64d}</destination>
+            <destination>{bec7d3f5-e5d1-411e-9fad-65cb9004cb96}</destination>
         </relationship>
         <relationship name="mixer">
             <destination>{f5f654b5-daa6-4d7e-9283-0dfeab993f90}</destination>
@@ -64,9 +64,6 @@ global_fight_outro:
             <destination>{6dd19fde-9ec6-49db-b8f9-e36a229823e0}</destination>
             <destination>{dcad5743-830e-4bcd-bef1-062628cc8a1a}</destination>
             <destination>{b63957d4-0b26-45db-ac21-7a911d584f10}</destination>
-        </relationship>
-        <relationship name="banks">
-            <destination>{ac3bffc0-ba64-43f1-8e4e-f6e432afbe5a}</destination>
         </relationship>
     </object>
     <object class="EventMixer" id="{f5f654b5-daa6-4d7e-9283-0dfeab993f90}">
@@ -975,6 +972,9 @@ global_fight_outro:
         <property name="length">
             <value>32.571428571428584</value>
         </property>
+        <relationship name="parameters">
+            <destination>{ff92b35a-28f7-4c6b-b98d-3b02ef16f7b5}</destination>
+        </relationship>
         <relationship name="event">
             <destination>{18b24d26-bd0b-4c88-b4bb-b0c9e8c1a247}</destination>
         </relationship>
@@ -1253,6 +1253,9 @@ global_fight_outro:
         <property name="maxVoices">
             <value>1</value>
         </property>
+        <relationship name="parameters">
+            <destination>{ecaa42c8-7946-4fa6-b31c-b8ec7ab01feb}</destination>
+        </relationship>
         <relationship name="event">
             <destination>{87b29c33-35b1-43c0-b54d-2fadf62b8792}</destination>
         </relationship>
@@ -6213,12 +6216,22 @@ global_fight_outro:
     </object>
     <object class="MixerBusPanner" id="{61d98b97-4eca-4c45-a3c4-19d519ee45e9}"/>
     <object class="MixerBusFader" id="{5a1b07d1-f0a7-41a2-ac09-041d3ab6d397}"/>
+    <object class="ParameterProperty" id="{ff92b35a-28f7-4c6b-b98d-3b02ef16f7b5}">
+        <relationship name="parameter">
+            <destination>{9bddd270-7c2b-4273-be68-bbef9b73cd93}</destination>
+        </relationship>
+    </object>
     <object class="TransitionSourceFadeOutCurve" id="{a140fcaa-4b3e-4ff0-b7b2-7d075e9f34d5}">
         <relationship name="startPoint">
             <destination>{13ecbde7-0b53-47cc-b7bb-33e395cce8c2}</destination>
         </relationship>
         <relationship name="endPoint">
             <destination>{45799258-1214-4181-8810-32e986ffa187}</destination>
+        </relationship>
+    </object>
+    <object class="ParameterProperty" id="{ecaa42c8-7946-4fa6-b31c-b8ec7ab01feb}">
+        <relationship name="parameter">
+            <destination>{61b1d79a-6ef9-46be-9c6e-8d2fcd2ffe2c}</destination>
         </relationship>
     </object>
     <object class="MixerBusEffectChain" id="{ffdde544-69ce-45d4-80f7-25f1ac74cb42}">
