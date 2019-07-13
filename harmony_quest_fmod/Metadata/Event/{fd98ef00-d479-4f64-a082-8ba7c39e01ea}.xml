@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{fd98ef00-d479-4f64-a082-8ba7c39e01ea}">
         <property name="name">
-            <value>crystal_man_fight_pink (2) (2)</value>
+            <value>crystal_man_fight_pink (v.2)</value>
         </property>
         <property name="outputFormat">
             <value>1</value>
         </property>
         <relationship name="folder">
-            <destination>{b04dde7d-79a1-4b00-b412-8f1827d3c4f6}</destination>
+            <destination>{bec7d3f5-e5d1-411e-9fad-65cb9004cb96}</destination>
         </relationship>
         <relationship name="mixer">
             <destination>{ef622b00-e3a3-4347-a2d0-6b4683e099fa}</destination>
