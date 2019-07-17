@@ -1368,7 +1368,7 @@
     <object class="MixerBusEffectChain" id="{efdc2c5b-a609-4917-8ffa-d3d1af60bc64}">
         <relationship name="effects">
             <destination>{8919e633-9815-4b78-958a-8e52023c4f91}</destination>
-            <destination>{fc486a6c-64dc-4a71-861c-affb06f11519}</destination>
+            <destination>{324b689e-e331-41d6-afeb-6f89f5771465}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{4d954fae-2182-4726-a35b-be468b0c6f4c}"/>
@@ -1548,19 +1548,13 @@
         </relationship>
     </object>
     <object class="MixerBusFader" id="{8919e633-9815-4b78-958a-8e52023c4f91}"/>
-    <object class="SpatialiserEffect" id="{fc486a6c-64dc-4a71-861c-affb06f11519}">
-        <property name="distanceRolloffType">
+    <object class="ProxyEffect" id="{324b689e-e331-41d6-afeb-6f89f5771465}">
+        <property name="inputFormat">
             <value>1</value>
         </property>
-        <property name="minimumDistance">
-            <value>10000</value>
-        </property>
-        <property name="maximumDistance">
-            <value>10000</value>
-        </property>
-        <property name="userStereoSeparation">
-            <value>105.814323</value>
-        </property>
+        <relationship name="preset">
+            <destination>{49e3e0d8-f3d8-45d2-86be-808b41f0850b}</destination>
+        </relationship>
     </object>
     <object class="AutomationCurve" id="{c12bd656-60be-4ea7-8546-1fa7a5ffdd79}">
         <relationship name="parameter">

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{3748236b-bf67-457a-92c2-342d7202834a}">
         <property name="assetPath">
-            <value>SFX/Enemy/Prototype Pill/EnemyCharge2.ogg</value>
+            <value>SFX/Enemy/Prototype Pill/Atonal/EnemyCharge2.ogg</value>
         </property>
         <property name="frequencyInKHz">
             <value>44.0999985</value>
