@@ -124,7 +124,10 @@
     </object>
     <object class="SingleSound" id="{d137a088-d568-4887-9fd1-bf589a80affe}">
         <property name="length">
-            <value>0.43439909297052154</value>
+            <value>0.40651309613374498</value>
+        </property>
+        <property name="timelockedOffset">
+            <value>0.027885996836776734</value>
         </property>
         <relationship name="audioFile">
             <destination>{71f2f650-f27c-44a8-a8fb-5b6a87c59961}</destination>
@@ -154,7 +157,10 @@
     </object>
     <object class="SingleSound" id="{5246aa03-63f5-46f8-a883-448c2c63e95b}">
         <property name="length">
-            <value>0.51945578231292522</value>
+            <value>0.48820578231292566</value>
+        </property>
+        <property name="timelockedOffset">
+            <value>0.03125</value>
         </property>
         <relationship name="audioFile">
             <destination>{3748236b-bf67-457a-92c2-342d7202834a}</destination>

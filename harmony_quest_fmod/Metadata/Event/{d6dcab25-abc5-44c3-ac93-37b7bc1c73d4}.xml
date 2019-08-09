@@ -399,7 +399,7 @@ global_fight_outro:
     </object>
     <object class="EventMixerGroup" id="{49596ff7-7658-4a98-b16c-c470c6a7c2d4}">
         <property name="volume">
-            <value>-2</value>
+            <value>-1</value>
         </property>
         <property name="name">
             <value>Music Track 1</value>
