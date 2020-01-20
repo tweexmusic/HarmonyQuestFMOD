@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="ParameterPreset" id="{21298ebf-9e8e-4e53-9eb6-72fa1cfe6bea}">
         <property name="name">
-            <value>global_area_dissonance_phase</value>
+            <value>global_area_phase</value>
         </property>
         <relationship name="folder">
             <destination>{5e27807b-4c6d-4b77-a13a-05572f73cda1}</destination>

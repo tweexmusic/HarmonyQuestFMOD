@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{b109dd51-edb8-427f-ab51-a45b73a256f5}">
         <property name="assetPath">
-            <value>Music/Twilit Hollow/twilit_dissonance_phase2_110bpm.wav</value>
+            <value>Music/Twilit Hollow/twilit_hollow_dissonance_phase2_110bpm.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>44.0999985</value>
