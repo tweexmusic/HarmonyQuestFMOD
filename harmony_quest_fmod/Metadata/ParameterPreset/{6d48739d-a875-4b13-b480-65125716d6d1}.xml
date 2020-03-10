@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="ParameterPreset" id="{6d48739d-a875-4b13-b480-65125716d6d1}">
         <property name="name">
-            <value>gloabl_master_fade_.5</value>
+            <value>global_master_fade_.5</value>
         </property>
         <relationship name="folder">
             <destination>{5e27807b-4c6d-4b77-a13a-05572f73cda1}</destination>

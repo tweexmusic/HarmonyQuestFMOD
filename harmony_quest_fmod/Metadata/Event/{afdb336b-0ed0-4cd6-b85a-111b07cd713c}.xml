@@ -17,7 +17,7 @@ global_master_fade_.5:
 -Set value to 1 to initiate a .5 second fade-down of event master volume</value>
         </property>
         <property name="outputFormat">
-            <value>2</value>
+            <value>1</value>
         </property>
         <relationship name="folder">
             <destination>{24501a6a-1748-43f7-b245-beb03318e4e6}</destination>
@@ -1116,7 +1116,6 @@ global_master_fade_.5:
     <object class="MixerBusEffectChain" id="{75758e92-5554-41ad-92b1-80df1a594ec2}">
         <relationship name="effects">
             <destination>{f54b94bc-0f49-439b-a565-f68f0b1c0d0f}</destination>
-            <destination>{72cbfbab-b91f-4f10-afe8-46b083f607a2}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{1b76f526-5a16-41ea-9bad-00690c5f7ab3}"/>
@@ -1173,7 +1172,6 @@ global_master_fade_.5:
         </relationship>
     </object>
     <object class="MixerBusFader" id="{f54b94bc-0f49-439b-a565-f68f0b1c0d0f}"/>
-    <object class="SpatialiserEffect" id="{72cbfbab-b91f-4f10-afe8-46b083f607a2}"/>
     <object class="AutomationCurve" id="{a907590c-e658-4e72-9ed6-6286f3174c5d}">
         <relationship name="parameter">
             <destination>{fc22d29b-11ad-4e99-8afb-b6eaad8713f8}</destination>

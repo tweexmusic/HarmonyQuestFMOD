@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{f53f8edb-4fd2-4c4c-9dc2-fa4d20dd5586}">
         <property name="name">
-            <value>twilit_hollow_dissonanace</value>
+            <value>twilit_hollow_dissonance</value>
         </property>
         <property name="note">
             <value>global_area_phase:
@@ -20,7 +20,7 @@ global_master_fade_.5:
 -Set value to 1 to initiate a .5 second fade-down of event master volume</value>
         </property>
         <property name="outputFormat">
-            <value>2</value>
+            <value>1</value>
         </property>
         <relationship name="folder">
             <destination>{24501a6a-1748-43f7-b245-beb03318e4e6}</destination>
@@ -2581,7 +2581,6 @@ global_master_fade_.5:
     <object class="MixerBusEffectChain" id="{692062c4-9b00-4519-8bd8-2bf22fac2200}">
         <relationship name="effects">
             <destination>{c374b27a-ce2a-4280-b49d-24eb5f63adf8}</destination>
-            <destination>{d05075f7-3fa6-4a4e-b82e-2e77744ef796}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{ce84e7de-c593-44e4-914a-ee4a89496d10}"/>
@@ -2767,7 +2766,6 @@ global_master_fade_.5:
         </relationship>
     </object>
     <object class="MixerBusFader" id="{c374b27a-ce2a-4280-b49d-24eb5f63adf8}"/>
-    <object class="SpatialiserEffect" id="{d05075f7-3fa6-4a4e-b82e-2e77744ef796}"/>
     <object class="AutomationPoint" id="{37b9120c-18ec-44e0-a7d8-de3d02f49248}">
         <property name="position">
             <value>0</value>
