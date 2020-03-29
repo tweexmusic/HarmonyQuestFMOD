@@ -22,7 +22,7 @@
             <value>100</value>
         </property>
         <property name="seekSpeedDescending">
-            <value>50</value>
+            <value>75</value>
         </property>
         <property name="seekSpeedAsymmetric">
             <value>true</value>
