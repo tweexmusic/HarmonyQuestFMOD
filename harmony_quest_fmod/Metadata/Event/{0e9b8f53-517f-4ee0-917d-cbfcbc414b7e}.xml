@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{0e9b8f53-517f-4ee0-917d-cbfcbc414b7e}">
         <property name="name">
-            <value>melody_parry_tonal</value>
+            <value>PLACEHOLDER_tonal</value>
         </property>
         <property name="outputFormat">
             <value>2</value>
         </property>
         <relationship name="folder">
-            <destination>{1e3d43c7-4853-48ec-9751-0e11fb175fa5}</destination>
+            <destination>{30168617-d0d4-4ba3-a1f5-ff40bc369b65}</destination>
         </relationship>
         <relationship name="mixer">
             <destination>{aaad0970-f7dd-40be-a6f4-ded60bb60faa}</destination>
@@ -213,7 +213,7 @@
     </object>
     <object class="ParameterProxy" id="{cd7eaa7e-7ee3-44b7-9caf-6b439b56de3b}">
         <relationship name="preset">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterProxy" id="{a38300ef-1c15-4ebe-8690-6e8f6b0579db}">
@@ -1244,7 +1244,7 @@
             <value>1</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{38733d5f-e1ec-439d-b55a-1c8ad0f73aeb}">
@@ -1255,7 +1255,7 @@
             <value>2</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{825c4369-f489-43ac-8f29-7d59a8b71c33}">
@@ -1266,7 +1266,7 @@
             <value>3</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{e8610929-b154-40bf-84f9-325a872376ff}">
@@ -1277,7 +1277,7 @@
             <value>4</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{e227f316-1d10-4ebe-8d08-584a826374eb}">
@@ -1288,7 +1288,7 @@
             <value>5</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{1e1d0618-bce6-4213-a611-47f9b9246a9f}">
@@ -1299,7 +1299,7 @@
             <value>6</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{ce4e85ee-a24c-4f54-9a2c-69b5ada1c96b}">
@@ -1310,7 +1310,7 @@
             <value>7</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{f44eef3a-c60c-41b9-a0de-8cf5235cf960}">
@@ -1321,7 +1321,7 @@
             <value>8</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{6c8faab6-3484-4ed7-83c1-6c344dd23806}">
@@ -1332,7 +1332,7 @@
             <value>9</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{bc1f3024-4868-4305-8d35-fdea544ed23f}">
@@ -1343,7 +1343,7 @@
             <value>10</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{543d3443-aa9d-4616-9605-868fd5c0bd7f}">
@@ -1354,7 +1354,7 @@
             <value>11</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="ParameterCondition" id="{db6a3ec2-f584-4de8-a605-b011e4c990f8}">
@@ -1365,7 +1365,7 @@
             <value>12</value>
         </property>
         <relationship name="parameter">
-            <destination>{b88c7c22-cf17-4048-ae9d-f53dcdb3445b}</destination>
+            <destination>{7c33b535-10fa-4ad1-948a-9ff842a2d6da}</destination>
         </relationship>
     </object>
     <object class="MixerBusFader" id="{3b70761a-38bf-4359-b718-cf754d5532f4}"/>

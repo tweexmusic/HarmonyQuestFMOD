@@ -5,7 +5,7 @@
             <value>melody_harmony_mode</value>
         </property>
         <property name="note">
-            <value>global_melody_harmony_mode:
+            <value> global_melody_harmony_mode:
 1 - Combo Up 1
 2 - Combo Up 2
 3 - Combo Up 3
