@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="ParameterPreset" id="{761458a2-8200-4c8f-9681-f0ccfacc5446}">
         <property name="name">
-            <value>global_footstep_surfac</value>
+            <value>global_footstep_surface</value>
         </property>
         <relationship name="folder">
             <destination>{5e27807b-4c6d-4b77-a13a-05572f73cda1}</destination>
