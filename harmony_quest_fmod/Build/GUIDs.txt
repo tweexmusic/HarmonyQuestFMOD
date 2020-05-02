@@ -50,6 +50,7 @@
 {379b556c-48b0-45ba-b703-d42998c33200} event:/sfx/melody/melody_parry_fail_tonal
 {b4ed29dd-a4e0-4a0f-a0a7-41717db23ae8} event:/sfx/melody/melody_parry_hit
 {2ad82b46-60e5-4847-9ab7-dc68092024fb} event:/sfx/melody/melody_parry_hit_tonal
+{51c3cf6c-0f8e-4cfc-b04c-32e7390d66ce} event:/sfx/melody/melody_dash_tonal
 {dc3d52c3-bc64-4948-95e7-07817e581c44} event:/PLACEHOLDER
 {0e9b8f53-517f-4ee0-917d-cbfcbc414b7e} event:/PLACEHOLDER_tonal
 {7fe85a8f-b79c-4bb7-92f6-05f4599b2ee8} bus:/
