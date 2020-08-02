@@ -4,7 +4,6 @@
         <property name="name">
             <value>melody_footstep</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -84,6 +83,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{f476f709-5cc9-47cd-8da4-21a04054365f}">
+        <property name="volume">
+            <value>-10</value>
+        </property>
         <relationship name="effectChain">
             <destination>{95710ff2-e9f9-40b7-aa64-6d0a97a78458}</destination>
         </relationship>

@@ -4,7 +4,6 @@
         <property name="name">
             <value>melody_parry_fail</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -76,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{b9940e81-27d0-4af6-9689-e9446b3bc6c0}">
+        <property name="volume">
+            <value>-10</value>
+        </property>
         <relationship name="effectChain">
             <destination>{58426eba-79c8-451b-b4c0-8427b411fbce}</destination>
         </relationship>

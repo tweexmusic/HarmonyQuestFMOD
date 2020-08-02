@@ -4,7 +4,6 @@
         <property name="name">
             <value>frog_knight_sword_hit</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -76,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{2c1e1ccd-b1a5-420a-a160-4106e079c07a}">
+        <property name="volume">
+            <value>-10</value>
+        </property>
         <relationship name="effectChain">
             <destination>{5bc6c771-48f9-4ca2-8aa6-e1f91cc97e78}</destination>
         </relationship>

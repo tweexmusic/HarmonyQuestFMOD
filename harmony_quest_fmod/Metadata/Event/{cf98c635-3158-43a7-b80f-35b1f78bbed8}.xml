@@ -4,7 +4,6 @@
         <property name="name">
             <value>melody_heal</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -76,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{e40234ff-8714-44f3-8513-76270f946a40}">
+        <property name="volume">
+            <value>-10.5</value>
+        </property>
         <relationship name="effectChain">
             <destination>{7b04b31d-1954-4ecd-908e-566df433b7ff}</destination>
         </relationship>

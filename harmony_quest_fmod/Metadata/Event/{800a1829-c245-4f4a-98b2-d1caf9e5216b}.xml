@@ -4,7 +4,6 @@
         <property name="name">
             <value>enemy_death</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -76,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{24d29d9f-3309-40ca-8fc1-3648c93b4865}">
+        <property name="volume">
+            <value>-10.5</value>
+        </property>
         <relationship name="effectChain">
             <destination>{48407c3d-fc56-4dfb-a2e1-8adac654e0b8}</destination>
         </relationship>

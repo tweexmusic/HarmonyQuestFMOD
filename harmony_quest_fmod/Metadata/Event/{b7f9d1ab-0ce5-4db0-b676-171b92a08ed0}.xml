@@ -4,7 +4,6 @@
         <property name="name">
             <value>frog_knight_hop</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -76,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{62667861-fbc7-4ff5-8794-4fd0f1e56900}">
+        <property name="volume">
+            <value>-10</value>
+        </property>
         <relationship name="effectChain">
             <destination>{d15380ab-ce5b-4a46-a2bd-d5b7b2236d08}</destination>
         </relationship>

@@ -4,7 +4,6 @@
         <property name="name">
             <value>enemy_aggro</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -76,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{82b315b8-ba62-43cc-bf84-f2799b993ec5}">
+        <property name="volume">
+            <value>-10</value>
+        </property>
         <relationship name="effectChain">
             <destination>{33b8a868-6087-4155-9ce8-ad651a48a974}</destination>
         </relationship>

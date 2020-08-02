@@ -4,7 +4,6 @@
         <property name="name">
             <value>melody_harmony_mode_activate</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -76,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{524900dd-a490-4ab6-9c0a-742854564277}">
+        <property name="volume">
+            <value>-10.5</value>
+        </property>
         <relationship name="effectChain">
             <destination>{6136b70c-b837-4d10-a153-04db005064eb}</destination>
         </relationship>

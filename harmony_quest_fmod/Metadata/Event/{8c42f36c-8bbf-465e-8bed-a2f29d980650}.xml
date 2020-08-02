@@ -4,7 +4,6 @@
         <property name="name">
             <value>frog_knight_footstep</value>
         </property>
-        <property name="note"/>
         <property name="outputFormat">
             <value>2</value>
         </property>
@@ -84,6 +83,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{909f8fbb-03e9-47f8-b67a-d14461619c16}">
+        <property name="volume">
+            <value>-10.5</value>
+        </property>
         <relationship name="effectChain">
             <destination>{2ed48274-54c0-4ec9-bf9a-03eb24be6325}</destination>
         </relationship>
